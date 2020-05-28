@@ -1,0 +1,13 @@
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\bin\Debug\netcoreapp3.1\Exercise 3-1.exe
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\bin\Debug\netcoreapp3.1\Exercise 3-1.deps.json
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\bin\Debug\netcoreapp3.1\Exercise 3-1.runtimeconfig.json
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\bin\Debug\netcoreapp3.1\Exercise 3-1.runtimeconfig.dev.json
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\bin\Debug\netcoreapp3.1\Exercise 3-1.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\bin\Debug\netcoreapp3.1\Exercise 3-1.pdb
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.csprojAssemblyReference.cache
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.csproj.CoreCompileInputs.cache
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.AssemblyInfoInputs.cache
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.AssemblyInfo.cs
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.dll
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.pdb
+C:\Users\miriam.ramirez\Documents\- Training\Training SDET\Exercises\8. C#\Exercise 3-1\obj\Debug\netcoreapp3.1\Exercise 3-1.genruntimeconfig.cache
